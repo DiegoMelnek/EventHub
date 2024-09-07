@@ -29,12 +29,13 @@ src
 │
 ├── main
 │   ├── java
-│   │   └── com
-│   │       └── eventhub
-│   │           ├── controllers
-│   │           ├── models
-│   │           ├── repositories
-│   │           ├── services
+│   │   └── me
+│   │       └── melnek
+│   │           └── eventhub
+│   │               ├── controllers
+│   │               ├── models
+│   │               ├── repositories
+│   │               ├── services
 │   └── resources
 │       ├── application.properties
 │       └── data.sql
